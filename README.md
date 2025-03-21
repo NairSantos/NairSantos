@@ -81,6 +81,10 @@ Desde pequena, adoro criar coisas novas e refatorar algumas mais antigas tambem,
   <a href="https://br.linkedin.com/in/nair-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <br>
+
 ![snake animation](https://github.com/NairSantos/NairSantos/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://raw.githubusercontent.com/NairSantos/NairSantos/output/github-contribution-grid-snake.svg)
+
 </div>
 
