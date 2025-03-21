@@ -3,32 +3,30 @@ name: Generate Datas
 on:
   schedule:
     - cron: "0 */12 * * *"  
-  workflow_dispatch:
+  workflow_dispatch: 
 
 jobs:
   build:
     name: Atualizar animação da cobrinha
     runs-on: ubuntu-latest
     permissions:
-      contents: write  
+      contents: write 
+
     steps:
       - name: Checkout do repositório
         uses: actions/checkout@v3
 
-      - name: Criar pasta dist se não existir
-        run: mkdir -p dist
+      - name: Garantir que a pasta dist existe
+        run: mkdir -p dist 
 
       - name: Gerar animação da cobrinha
         uses: Platane/snk@master
         with:
           github_user_name: NairSantos
-          outputs: dist/github-contribution-grid-snake.svg
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Verificar se o arquivo foi gerado
+        run: ls dist  
 
       - name: Commit e push da animação
-        run: |
-          git config --global user.email "github-actions@github.com"
-          git config --global user.name "GitHub Actions"
-          git checkout -b output || git checkout output  # Garante que a branch existe
-          git add dist/github-contribution-grid-snake.svg
-          git commit -m "Atualizando a animação da cobrinha"
-          git push origin output
+   
