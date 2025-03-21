@@ -2,7 +2,7 @@ name: Generate Datas
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Executa a cada 12 horas
+    - cron: "0 */12 * * *"  
   workflow_dispatch:
 
 jobs:
@@ -10,10 +10,13 @@ jobs:
     name: Atualizar animação da cobrinha
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Permite que a action escreva no repositório
+      contents: write  
     steps:
       - name: Checkout do repositório
         uses: actions/checkout@v3
+
+      - name: Criar pasta dist se não existir
+        run: mkdir -p dist
 
       - name: Gerar animação da cobrinha
         uses: Platane/snk@master
@@ -25,6 +28,7 @@ jobs:
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "GitHub Actions"
-          git add -A
+          git checkout -b output || git checkout output  # Garante que a branch existe
+          git add dist/github-contribution-grid-snake.svg
           git commit -m "Atualizando a animação da cobrinha"
           git push origin output
