@@ -45,11 +45,6 @@ Desde pequena, adoro criar coisas novas e refatorar algumas mais antigas tambem,
 - Frameworks: Flask, Node.js, Bootstrap, Spring Boot.
 - Ferramentas: Figma, Canva, Jupyter Notebook, GitHub Desktop.
 
-## 📚 Projetos de Destaque: Lear+: Auxilio na Apredizagem
-- [Lear+: Auxilio na Apredizagem](link): Github.
-- [Artigo nacional](link): Breve descrição do projeto.
-- [Artigo internacional](link): Breve descrição do projeto.
-
 ## 📈 Estatísticas GitHub
 <div align="center">  
   <img width="60%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NairSantos&show_icons=true&layout=compact&hide_border=true&title_color=c792ea&text_color=7fdbca&bg_color=0d1117" />  
