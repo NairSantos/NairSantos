@@ -82,9 +82,5 @@ Desde pequena, adoro criar coisas novas e refatorar algumas mais antigas tambem,
 
 <br>
 
-![snake animation](https://github.com/NairSantos/NairSantos/blob/output/github-contribution-grid-snake.svg)
-
-![Snake animation](https://raw.githubusercontent.com/NairSantos/NairSantos/output/github-contribution-grid-snake.svg)
-
 </div>
 
