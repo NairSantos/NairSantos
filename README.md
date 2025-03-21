@@ -28,7 +28,7 @@ Desde pequena, adoro criar coisas novas e refatorar algumas mais antigas tambem,
 🌱 **Aprendendo mais sobre angular**ㅤㅤㅤㅤㅤㅤㅤ
 
 🎨 **Curiosidades sobre mim:**
-🎮 Amo animes e desenhar no estilo mangá e chibi!ㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ  
+🎮 Amo animes e desenhar no estilo mangá e chibi!ㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 🐕‍🦺 Tenho uma companheira chamada Lua  
 💃 Danço vários ritmos desde os 5 anos!  
   </td> 
