@@ -25,7 +25,7 @@ Desde pequena, adoro criar coisas novas e refatorar algumas mais antigas tambem,
   <tr>
     <td>
       
-🌱 **Aprendendo mais sobre angular**ㅤㅤㅤㅤㅤㅤㅤ
+🌱 **Aprendendo mais sobre Angular e Typescrpt**ㅤㅤㅤㅤㅤㅤㅤ
 
 🎨 **Curiosidades sobre mim:**<br>
 🎮 Amo animes e desenhar no estilo mangá e chibi!ㅤ ㅤㅤㅤ ㅤㅤ ㅤㅤㅤㅤ ㅤ ㅤ ㅤㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ<br>
