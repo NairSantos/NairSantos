@@ -10,7 +10,7 @@
      <td>
        
 💡 **Quem sou eu?**  
-Me chamo Nair Santos, tenho 19 anos e sou apaixonada por design, front-end, gatinhos pretos e cachorros pequenos.
+Me chamo Nair Santos, tenho 20 anos e sou apaixonada por design, front-end, gatinhos pretos e cachorros pequenos.
 Desde pequena, adoro criar coisas novas e refatorar algumas mais antigas tambem, seja com código, desenhos, pinturas etc.  
      </td>
     <td>
