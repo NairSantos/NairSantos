@@ -42,8 +42,8 @@ Desde pequena, adoro criar coisas novas e refatorar algumas mais antigas tambem,
 <br>
 
 ## 🛠️ Minhas habilidades
-- Linguagens: Python, JavaScript, TypeScript, Java.
-- Frameworks: Flask, Node.js, Bootstrap, Spring Boot.
+- Linguagens: Python, JavaScript, TypeScript.
+- Frameworks: Flask, Node.js, Bootstrap.
 - Ferramentas: Figma, Canva, Jupyter Notebook, GitHub Desktop.
 
 ## 📈 Estatísticas GitHub
