@@ -5,7 +5,7 @@
 <table>
    <tr>
     <td>
-      <img width="550" src="https://i.pinimg.com/736x/93/3a/a3/933aa399d8709d7cd97761c76f4d1b57.jpg">
+      <img width="550" src="https://i.pinimg.com/736x/ea/75/3b/ea753b878cfa44be18ceaa67cd7c87ef.jpg">
     </td>
      <td>
        
@@ -14,7 +14,7 @@ Me chamo Nair Santos, tenho 20 anos e sou apaixonada por design, front-end, gati
 Desde pequena, adoro criar coisas novas e refatorar algumas mais antigas tambem, seja com código, desenhos, pinturas etc.  
      </td>
     <td>
-      <img width="550" src="https://i.pinimg.com/736x/4e/bd/20/4ebd20b67b4a26da1096133eaaa68e04.jpg">
+      <img width="550" src="https://i.pinimg.com/736x/9e/35/29/9e35291d94e3882dc42735134e67fc0d.jpg">
     </td>
   </tr>
 </table>
